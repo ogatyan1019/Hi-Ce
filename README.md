@@ -22,7 +22,7 @@ Cyberduck
   
 Raspberry Pi側  
 Raspberry Pi3 b+  
-使用OS：Raspbian Buster with desktop  
+使用OS：Raspbian Buster with desktop(ver.July-2019だったと記憶)  
 
 使用言語
 ==================================================
@@ -32,4 +32,4 @@ Python 3.7.4
 ===================================================
 server.phpは専攻科生が作成したものをいただきました。  
 Paspi.pi上のBME280制御部はhttps://github.com/PrinzEugen7/Lesson/blob/master/Python/raspi3/gpio/sensor/bem280/bme280.py  
-Rasoi.pyは15分に1回DBへデータを送信  
+Rasoi.pyは15分に1回DBへデータを送信(time.sleepで調整可能)  
