@@ -15,7 +15,7 @@ Raspi.py:ラズパイ実機で動かすもの
 ==========================================
 PC側  
 使用IDE：Visual Studio Code,Arduino IDE(1.8.10.0)  
-ライブラリ管理:Anaconda3(ver4.7.10)  
+ライブラリ管理:Anaconda3(4.7.10)  
 Tera Term  
 WinSCP  
 Cyberduck  
