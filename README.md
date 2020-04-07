@@ -24,7 +24,7 @@ Raspberry Pi側
 Raspberry Pi3 b+  
 使用OS：Raspbian Buster with desktop(ver.July-2019だったと記憶)  
 
-サーバー
+サーバー　
 さくらのVPS
 
 使用言語
