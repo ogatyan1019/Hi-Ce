@@ -11,20 +11,20 @@ Raspberry PiとArduinoで測定したデータをDBに送り込むやつ
 - Raspi.py:ラズパイ実機で動かすもの  
 
 ## 開発環境
-PC側  
-使用IDE：Visual Studio Code,Arduino IDE(1.8.10.0)  
-ライブラリ管理:Anaconda3(4.7.10)  
-その他  
-- Tera Term  
-- WinSCP  
-- Cyberduck  
+### PC側  
+- 使用IDE：Visual Studio Code,Arduino IDE(1.8.10.0)  
+- ライブラリ管理:Anaconda3(4.7.10)  
+- その他  
+  - Tera Term  
+  - WinSCP  
+  - Cyberduck  
   
-Raspberry Pi側  
-Raspberry Pi3 b+  
-使用OS：Raspbian Buster with desktop(ver.July-2019だったと記憶)  
+### Raspberry Pi側  
+- Raspberry Pi3 b+  
+- 使用OS：Raspbian Buster with desktop(ver.July-2019だったと記憶)  
 
-サーバー  
-さくらのVPS
+### サーバー  
+- さくらのVPS
 
 ## 使用言語
 - Python 3.7.4  
